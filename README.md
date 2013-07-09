@@ -3,25 +3,24 @@
 
 --------------------
 
-2012  
-Ben Moren and Ryan Wurst  
-http://benmoren.com  
-http://www.ryanwurst.com  
+#### 2012 - Ben Moren and Ryan Wurst  ####
+[http://benmoren.com](http://benmoren.com)
+[http://www.ryanwurst.com](http://www.ryanwurst.com  )
 
 ![Screenshot](/images_of_Patches.png)
 
 #### STANDARD SET: ####
-1.Delay_Patch
-2.Delay_Patch2
-3.Distortion
-4.Dry Record
-5.Flange
-6.Reverse
+1. Delay_Patch
+2. Delay_Patch2
+3. Distortion
+4. Dry Record
+5. Flange
+6. Reverse
 
 #### ADVANCED: ####
-1.Chucker
-2.Multi-Sequencer
-3.Sampler
+1. Chucker
+2. Multi-Sequencer
+3. Sampler
 
 ----------------
 
