@@ -1,11 +1,10 @@
 # Audio Processing #
-### A set of MAX/MSP modules to manipulate incoming sound files for use in introductory Media Arts Classes ###
+#### A set of MAX/MSP modules to manipulate incoming sound files for use in introductory Media Arts Classes ####
 
 --------------------
-
 #### 2012 - Ben Moren and Ryan Wurst  ####
-[http://benmoren.com](http://benmoren.com)
-[http://www.ryanwurst.com](http://www.ryanwurst.com  )
+[http://benmoren.com](http://benmoren.com)  
+[http://www.ryanwurst.com](http://www.ryanwurst.com)
 
 ![Screenshot](/images_of_Patches.png)
 
