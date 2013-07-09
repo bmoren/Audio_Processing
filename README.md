@@ -1,27 +1,27 @@
 # Audio Processing #
-## A set of MAX/MSP modules to manipulate incoming sound files for use in introductory Media Arts Classes ##
+### A set of MAX/MSP modules to manipulate incoming sound files for use in introductory Media Arts Classes ###
 
 --------------------
 
-2012
-Ben Moren and Ryan Wurst
-http://benmoren.com
-http://www.ryanwurst.com
+2012  
+Ben Moren and Ryan Wurst  
+http://benmoren.com  
+http://www.ryanwurst.com  
 
 ![Screenshot](/images_of_Patches.png)
 
 #### STANDARD SET: ####
-*Delay_Patch
-*Delay_Patch2
-*Distortion
-*Dry Record
-*Flange
-*Reverse
+1.Delay_Patch
+2.Delay_Patch2
+3.Distortion
+4.Dry Record
+5.Flange
+6.Reverse
 
 #### ADVANCED: ####
-*Chucker
-*Multi-Sequencer
-*Sampler
+1.Chucker
+2.Multi-Sequencer
+3.Sampler
 
 ----------------
 
